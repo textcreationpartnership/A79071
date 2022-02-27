@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties resolution concerning the magazine in the Tower of London. Likewise the Parliaments resolntion [sic] concerning the same, being resolved to dispose therof, as shall be found needfull for the present occasion, and by the authority of Parliaments. Together with the Parliaments declaration July 12. Declaring that none shall apprehend, or arrest any of His Maiesties subjects that obeyeth the ordinance of Parliament, under pretence of His Majesties warrants. Also a worthy speech spoken in the House of Commons by Mr. Iohn Pym, esquire, laying open the great ruine and destruction that is like to befall this kingdome, declaring the authority of Parliaments. With two humble motions presented to His Majesty from the high court of Parliament. Ordered that these particulars aforementioned be forthwith printed and published. Hen. Elsing. Cler. Parl. D. Com.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79071</idno>
+            <idno type="STC">Wing C2754A</idno>
+            <idno type="STC">Thomason E155_9</idno>
+            <idno type="STC">ESTC R13735</idno>
+            <idno type="EEBO-CITATION">99859534</idno>
+            <idno type="PROQUEST">99859534</idno>
+            <idno type="VID">111622</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79071)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111622)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E155[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties resolution concerning the magazine in the Tower of London. Likewise the Parliaments resolntion [sic] concerning the same, being resolved to dispose therof, as shall be found needfull for the present occasion, and by the authority of Parliaments. Together with the Parliaments declaration July 12. Declaring that none shall apprehend, or arrest any of His Maiesties subjects that obeyeth the ordinance of Parliament, under pretence of His Majesties warrants. Also a worthy speech spoken in the House of Commons by Mr. Iohn Pym, esquire, laying open the great ruine and destruction that is like to befall this kingdome, declaring the authority of Parliaments. With two humble motions presented to His Majesty from the high court of Parliament. Ordered that these particulars aforementioned be forthwith printed and published. Hen. Elsing. Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Pym, John, 1584-1643.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Smith,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>July 14. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:111622:1" rendition="simple:additions"/> HIS MAIESTIES RESOLUTION CONCERNING The <hi>Magazine</hi> in the Tower of <hi>London.</hi>
+            </p>
+            <p>Likewiſe the <hi>Parliaments</hi> Reſolution concerning the ſame, being reſolved to diſpoſe therof, as ſhall be found needfull for the preſent occaſion, and by the Authority of Parliaments.</p>
+            <p>Together with the Parliaments Declaration July 12. Declaring that none ſhall apprehend, or arreſt any of His Maieſties Subjects that obeyeth the Ordinance of Parliament, under pretence of His Majeſties Warrants.</p>
+            <p>Alſo a worthy Speech ſpoken in the Houſe of Com<g ref="char:EOLhyphen"/>mons by Mr. <hi>Iohn Pym,</hi> Eſquire, laying open the great ruine and deſtruction that is like to be fall this Kingdome, declaring the Authority of Parliaments.</p>
+            <p>With two humble Motions preſented to His Majeſty from the High Court of Parliament.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Ordered that theſe particulars aforementioned be forthwith prin<g ref="char:EOLhyphen"/>ted and publiſhed.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen. Elſing. Cler. Parl. D. Com</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for J. SMITH July. 14. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:111622:2"/>
+            <head>A WORTHY SPEECH <hi>SPOKEN</hi> In the Honourable Houſe of <hi>Commons,</hi> by <hi>Iohn Pym</hi> Eſquire.</head>
+            <opener>
+               <salute>Mr. SPEAKER,</salute>
+            </opener>
+            <p>THe Diſtempers of this Kingdom are well known, they need not Repetition; for though we have good Laws, yet they want their Execu<g ref="char:EOLhyphen"/>tioner, if they be executed it is in a wrong ſence: therfore I ſhall endeavour to apply a Remedy to the Breaches that are made, and to that end I ſhall diſcover firſt the quality of the Diſeaſe.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="objections">
+                        <pb facs="tcp:111622:3"/>
+                        <p>
+                           <label>I.</label> There is a deſign to alter Law and Re<g ref="char:EOLhyphen"/>ligion, the parties that effect this are Papiſts, who are obliged by a Maxime in their Do<g ref="char:EOLhyphen"/>ctrine, that they are not able to maintain their Religion, but to extirpate all others.</p>
+                        <p>
+                           <label>II.</label> The ſecond is our Hierarchy, which can<g ref="char:EOLhyphen"/>not mount to the hight they aime at, without the breach of Law.</p>
+                        <p>To which Religion neceſsarily ioyns, that if the one the other falls.</p>
+                        <p>
+                           <label>III.</label> 
+                           <hi>Agents and Pentioners to forraign State, who ſee we cannot comply with them, if wee maintain the Religion eſtabliſhed with Us, contrary to theirs, here we intend the Spaniſh White-gold works, which are of moſt effect for Earthly Favorites, as for petty promo<g ref="char:EOLhyphen"/>tion, not Conſcience.</hi>
+                        </p>
+                        <p>
+                           <hi>And ſuch are our Judges Spirituall and Temporall, ſuch are alſo our Councellours of State.</hi>
+                        </p>
+                        <p>
+                           <pb facs="tcp:111622:3"/>
+                           <hi>All theſe ſetled in their contriv<gap reason="illegible" resp="#OXF" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ents, that ayme at one end, and to this purpoſe they walk on four feet, diſcountenancing of Prea<g ref="char:EOLhyphen"/>chers, and men virtuous for Religion, perſe<g ref="char:EOLhyphen"/>cuted under the Law of purity.</hi>
+                        </p>
+                        <p>
+                           <hi>The ſecond is the diſcountenancing of Preachers, of contrary diſpoſitions.</hi>
+                        </p>
+                        <p>
+                           <hi>Thirdly, The negotiating with the Fa<g ref="char:EOLhyphen"/>ction of</hi> Rome, <hi>by frequent preaching, and inſtruction to preach of the abſolute Mo<g ref="char:EOLhyphen"/>narchie of Kings, here followeth ſeverall Heads.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>THe politicall interpretation of the Law to ſerve the Times, and this to impoſe Taxes with the Colour of Law.</p>
+            <p>A Judge ſaid it, when a <hi>Habeas Corpus</hi> was paid for by keeping the King in continuall want, that Hee may ſeeke to their Councels for Relief; to this pur<g ref="char:EOLhyphen"/>poſe they keep the Parliament in Di<g ref="char:EOLhyphen"/>ſtaſte that their Councell might bee ta<g ref="char:EOLhyphen"/>ken.
+<pb facs="tcp:111622:4"/> The King himſelf is brought to this, like a woman that uſeth her ſelf to poy<g ref="char:EOLhyphen"/>ſon, when ſhe might Eate good Meat, Search the Chronicles, and we ſhall ſee no King ever uſed
+<hi>Parliaments</hi> that was brought to this want, <hi>Arbitrary Procee<g ref="char:EOLhyphen"/>dings in Courts of Juſtice, we have Law left to the Conſcience of a ſingle man, all Courts are now of Conſcience.</hi>
+            </p>
+            <p>Plotters to inforce a war between <hi>France</hi> and Us, that when we had well wearied one another, wee might bee brought to what ſcorn they pleaſed, the Partition wall is only Unity, the puni<g ref="char:EOLhyphen"/>ſhing of <hi>Parliament men</hi> to affright them from ſpeaking what we think, one was committed for not delivering up the Petitions of the Houſe, a <hi>Declaration</hi> which ſlandereth our Proceedings, as full of <hi>Lyes</hi> as <hi>Levites,</hi> who would have the firſt Ground to be our Example, and Papiſts under appearance to the King, his beſt Subjects; for they Contribute money to the wars, which the Prote<g ref="char:EOLhyphen"/>ſtants will not do.</p>
+            <p>
+               <pb facs="tcp:111622:4"/> The other is the <hi>Military,</hi> by getting places of Importance into the Papiſts hands, as who were Commanders in the late Army, but they who were ſtrong in Arms, but they to whom their Arms is delivered contrary to the Statute.</p>
+            <p>Their indeavours are to bring in ſtrangers to billite upon us.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>A Letter ſent from Mr. Secretary</hi> Nicholas <hi>to the Houſe of Commons,</hi> July
+12.</head>
+                  <p>THere came Letters to the Houſe of Commons from Mr. Secretary <hi>Nicho<g ref="char:EOLhyphen"/>las</hi> at
+<hi>Yorke,</hi> by Order from his Majeſty in anſwer to a Letter of both Houſes to His Majeſty, deſiring his conſent for the taking of ſome Arms out of the Tower, to be ſent to
+<hi>Munſter,</hi> but his Majeſty would not Conſent therto, ſaying that they had taken one part of his Arms from him by force, and then Petition him to deliver up the other. Both Houſes ta<g ref="char:EOLhyphen"/>king into conſideration the ſaid Letter,
+<pb facs="tcp:111622:5"/> Ordered, that there ſhould be ſuch Arms aken, as ſhould be found needfull for the preſent occaſions, and to be diſpoſed of by the Authority of <hi>Parliament.</hi>
+                  </p>
+                  <p>Both houſes Ordered alſo, that there ſhould be theſe humble Motions preſen<g ref="char:EOLhyphen"/>ted to his Majeſty. 1. That the Juſtice of <hi>Parliament</hi> may paſſe upon all Delin<g ref="char:EOLhyphen"/>quents.</p>
+                  <p>2. That the generall pardon offered by your Majeſty may he granted with ſuch exceptions, as ſhall be adviſed by both houſes of <hi>Parliament.</hi>
+                  </p>
+                  <div type="declaration">
+                     <p>
+                        <hi>The Lords and Commons in Parliament do de<g ref="char:EOLhyphen"/>clare, That if any Meſſenger ſhall be colour of a<g ref="char:EOLhyphen"/>ny Command from his Majeſty, or Warrant under his Majeſties hand, arreſt, take, or carry away any of His Majeſties Subjects<g ref="char:punc">▪</g> to any place vvhatſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ever con<g ref="char:EOLunhyphen"/>trary to their Wils, Chat it is both againſt the Laws of the Land, and the Liberties of the Subjects.</hi>
+                     </p>
+                  </div>
+                  <div type="license">
+                     <p>
+                        <hi>Ordered that this be printed and publiſhed.</hi>
+                     </p>
+                     <closer>
+                        <signed>John Brown Cler. Parl. Hen. Elſing Cler. Par. D. Com.</signed>
+                     </closer>
+                  </div>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
